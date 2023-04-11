@@ -1,8 +1,3 @@
-"""
-This file is used for deploying hugging face demo:
-https://huggingface.co/spaces/sczhou/CodeFormer
-"""
-
 import sys
 sys.path.append('CodeFormer')
 import os

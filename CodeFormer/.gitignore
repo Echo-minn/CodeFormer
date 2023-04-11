@@ -1,8 +1,5 @@
 .vscode
 
-# ignored files
-version.py
-
 # ignored files with suffix
 *.html
 # *.png
